@@ -1,0 +1,16 @@
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/HibernateUtil.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/POJO/Producto.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/POJO/Cliente.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/POJO/DetVenta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/GUI/Principal.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/Practica3.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/POJO/Venta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/DAO/DAOCliente.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/DAO/DAODetVenta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/GUI/GUIDetVenta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/IDAOGeneral.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/GUI/GUIVenta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/GUI/GUIProducto.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/DAO/DAOVenta.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/DAO/DAOProducto.java
+/home/obed/NetBeansProjects/Practica3/src/main/java/org/uv/practica3/GUI/GUICliente.java
